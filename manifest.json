@@ -1,0 +1,2441 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://colenda.library.upenn.edu/items/ark:/81431/p34b2xs5b/manifest",
+    "@type": "sc:Manifest",
+    "label": "Receipt book",
+    "attribution": "Provided by the University of Pennsylvania Libraries.",
+    "viewingHint": "individuals",
+    "viewingDirection": "left-to-right",
+    "metadata": [
+        {
+            "label": "Available Online",
+            "value": [
+                "https://colenda.library.upenn.edu/catalog/81431-p34b2xs5b"
+            ]
+        },
+        {
+            "label": "Title",
+            "value": [
+                "Receipt book"
+            ]
+        },
+        {
+            "label": "Name",
+            "value": [
+                "Holme, Richard, 18th cent",
+                "Edgar F. Smith Memorial Collection"
+            ]
+        },
+        {
+            "label": "Date",
+            "value": [
+                "1739"
+            ]
+        },
+        {
+            "label": "Collection",
+            "value": [
+                "Edgar Fahs Smith Memorial Fund"
+            ]
+        },
+        {
+            "label": "Physical Format",
+            "value": [
+                "cookbooks",
+                "recipes",
+                "codices (bound manuscripts)",
+                "Manuscripts, European",
+                "manuscripts (documents)"
+            ]
+        },
+        {
+            "label": "Description",
+            "value": [
+                "A collection of over 100 recipes, arranged in loose order of fruit recipes (including preserving, fruit pastes, dried fruit, and candying); pickling recipes for vegetables, beans, shellfish, and fish; potted and collared meats; cakes, puddings, balls (dumplings), and cheesecakes; meat jellies; puff and shortcrust pastry; meat recipes (including brisk of mutton, bumbard of veal, leg of mutton a la mode); fish recipes (including roast pike and boiled cod's head); salted meats; boiled savory puddings; sweet puddings; wines, condiments, and sauces (Alastor).  The second quire (f. 25-32) and back wrapper are both detached.  A list of recipes at the end (f. 32r-32v) is a table of contents, sometimes diverging from the order in the manuscript, for the first half of the volume (f. 1r-15v)."
+            ]
+        },
+        {
+            "label": "Extent",
+            "value": [
+                "32 leaves : paper ; 200 x 160 mm bound to 200 x 160 mm."
+            ]
+        },
+        {
+            "label": "Language",
+            "value": [
+                "English"
+            ]
+        },
+        {
+            "label": "Coverage",
+            "value": [
+                "18th century"
+            ]
+        },
+        {
+            "label": "Note",
+            "value": [
+                "Ms. codex.",
+                "Title from front wrapper.",
+                "Foliation:  Paper, 32 leaves; [1-32], modern foliation in pencil, lower right recto; a leaf has been torn out after f. 15, with no apparent loss of text, and the foliation does not include the missing leaf.",
+                "Script: Written in cursive script.",
+                "Binding:  Original (18th-century) paper wrappers, with back wrapper detached and lacking upper quarter and front wrapper printed with an engraved portrait medallion of Leopold I, Holy Roman Emperor (1640-1705), with a decorative border and touches of hand coloring (Alastor).",
+                "Origin: Probably written in England (pen trials on back wrapper include the words London and Yarmouth), circa 1739 (Richard Holme inscription inside front wrapper).",
+                "Acquired for the Penn Libraries with assistance from the Edgar Fahs Smith Memorial Fund."
+            ]
+        },
+        {
+            "label": "Relation",
+            "value": [
+                "Digital facsimile for browsing (Colenda): https://colenda.library.upenn.edu/catalog/81431-p34b2xs5b",
+                "The Edgar Fahs Smith Memorial Fund Home Page: http://hdl.library.upenn.edu/1017.12/366281"
+            ]
+        },
+        {
+            "label": "Subject",
+            "value": [
+                "Cooking, English -- 18th century"
+            ]
+        },
+        {
+            "label": "Physical Location",
+            "value": [
+                "Kislak Center for Special Collections, Rare Books and Manuscripts, Manuscripts, Ms. Codex 2096"
+            ]
+        },
+        {
+            "label": "Provenance",
+            "value": [
+                "Early reader inscriptions include the names of Robert Thornten (front wrapper), Ann Taylor (f. 32v, dated December 25th 1778), and Ann Williamson (f. 32v, dated 1785, and back wrapper)",
+                "Sold by Alastor Rare Books Ltd. (East Cowes, England), 2022."
+            ]
+        },
+        {
+            "label": "Rights",
+            "value": [
+                "http://rightsstatements.org/vocab/NoC-US/1.0/"
+            ]
+        },
+        {
+            "label": "Bibnumber",
+            "value": [
+                "9979009221303681"
+            ]
+        }
+    ],
+    "thumbnail": {
+        "@id": "https://iiif-images.library.upenn.edu/iiif/2/0bbb872f-59c7-40e3-a805-eba3aa01bdc7/full/!200,200/0/default.jpg",
+        "service": {
+            "@context": "http://iiif.io/api/image/2/context.json",
+            "@id": "https://iiif-images.library.upenn.edu/iiif/2/0bbb872f-59c7-40e3-a805-eba3aa01bdc7",
+            "profile": "http://iiif.io/api/image/2/level2.json"
+        }
+    },
+    "structures": [
+        {
+            "@id": "https://colenda.library.upenn.edu/items/ark:/81431/p34b2xs5b/range/r1",
+            "@type": "sc:Range",
+            "label": "Front cover",
+            "ranges": [
+                {
+                    "@id": "https://colenda.library.upenn.edu/items/ark:/81431/p34b2xs5b/range/r1-1",
+                    "@type": "sc:Range",
+                    "label": "Engraving, Leopold I",
+                    "canvases": [
+                        "https://colenda.library.upenn.edu/items/ark:/81431/p34b2xs5b/canvas/p1"
+                    ]
+                }
+            ]
+        },
+        {
+            "@id": "https://colenda.library.upenn.edu/items/ark:/81431/p34b2xs5b/range/r3",
+            "@type": "sc:Range",
+            "label": "1r",
+            "ranges": [
+                {
+                    "@id": "https://colenda.library.upenn.edu/items/ark:/81431/p34b2xs5b/range/r3-1",
+                    "@type": "sc:Range",
+                    "label": "[Receipt book]",
+                    "canvases": [
+                        "https://colenda.library.upenn.edu/items/ark:/81431/p34b2xs5b/canvas/p3"
+                    ]
+                }
+            ]
+        },
+        {
+            "@id": "https://colenda.library.upenn.edu/items/ark:/81431/p34b2xs5b/range/r65",
+            "@type": "sc:Range",
+            "label": "32r",
+            "ranges": [
+                {
+                    "@id": "https://colenda.library.upenn.edu/items/ark:/81431/p34b2xs5b/range/r65-1",
+                    "@type": "sc:Range",
+                    "label": "[Table of contents]",
+                    "canvases": [
+                        "https://colenda.library.upenn.edu/items/ark:/81431/p34b2xs5b/canvas/p65"
+                    ]
+                }
+            ]
+        }
+    ],
+    "sequences": [
+        {
+            "@id": "https://colenda.library.upenn.edu/items/ark:/81431/p34b2xs5b/sequence/normal",
+            "@type": "sc:Sequence",
+            "label": "Current order",
+            "rendering": [
+                {
+                    "@id": "https://colenda.library.upenn.edu/items/ark:/81431/p34b2xs5b/pdf",
+                    "label": "Download PDF",
+                    "format": "application/pdf"
+                }
+            ],
+            "canvases": [
+                {
+                    "@id": "https://colenda.library.upenn.edu/items/ark:/81431/p34b2xs5b/canvas/p1",
+                    "@type": "sc:Canvas",
+                    "label": "Front cover",
+                    "height": 4964,
+                    "width": 4162,
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://iiif-images.library.upenn.edu/iiif/2/0bbb872f-59c7-40e3-a805-eba3aa01bdc7/full/!200,200/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "width": 4162,
+                                "height": 4964,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iiif-images.library.upenn.edu/iiif/2/0bbb872f-59c7-40e3-a805-eba3aa01bdc7",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                }
+                            },
+                            "on": "https://colenda.library.upenn.edu/items/ark:/81431/p34b2xs5b/canvas/p1"
+                        }
+                    ],
+                    "rendering": [
+                        {
+                            "@id": "https://colenda.library.upenn.edu/items/ark:/81431/p34b2xs5b/assets/0bbb872f-59c7-40e3-a805-eba3aa01bdc7/original",
+                            "label": "Original File - 62.1 MB",
+                            "format": "image/tiff"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://colenda.library.upenn.edu/items/ark:/81431/p34b2xs5b/canvas/p2",
+                    "@type": "sc:Canvas",
+                    "label": "Inside front cover",
+                    "height": 4964,
+                    "width": 3977,
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://iiif-images.library.upenn.edu/iiif/2/9bb13a32-5310-4380-afd5-b19b8d6b8e3d/full/!200,200/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "width": 3977,
+                                "height": 4964,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iiif-images.library.upenn.edu/iiif/2/9bb13a32-5310-4380-afd5-b19b8d6b8e3d",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                }
+                            },
+                            "on": "https://colenda.library.upenn.edu/items/ark:/81431/p34b2xs5b/canvas/p2"
+                        }
+                    ],
+                    "rendering": [
+                        {
+                            "@id": "https://colenda.library.upenn.edu/items/ark:/81431/p34b2xs5b/assets/9bb13a32-5310-4380-afd5-b19b8d6b8e3d/original",
+                            "label": "Original File - 59.3 MB",
+                            "format": "image/tiff"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://colenda.library.upenn.edu/items/ark:/81431/p34b2xs5b/canvas/p3",
+                    "@type": "sc:Canvas",
+                    "label": "1r",
+                    "height": 4945,
+                    "width": 3781,
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://iiif-images.library.upenn.edu/iiif/2/217dbe94-ae64-47b6-9ebc-c5ab40937754/full/!200,200/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "width": 3781,
+                                "height": 4945,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iiif-images.library.upenn.edu/iiif/2/217dbe94-ae64-47b6-9ebc-c5ab40937754",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                }
+                            },
+                            "on": "https://colenda.library.upenn.edu/items/ark:/81431/p34b2xs5b/canvas/p3"
+                        }
+                    ],
+                    "rendering": [
+                        {
+                            "@id": "https://colenda.library.upenn.edu/items/ark:/81431/p34b2xs5b/assets/217dbe94-ae64-47b6-9ebc-c5ab40937754/original",
+                            "label": "Original File - 56.2 MB",
+                            "format": "image/tiff"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://colenda.library.upenn.edu/items/ark:/81431/p34b2xs5b/canvas/p4",
+                    "@type": "sc:Canvas",
+                    "label": "1v",
+                    "height": 4964,
+                    "width": 3977,
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://iiif-images.library.upenn.edu/iiif/2/e0d0c8a5-f8df-4e9d-9a37-720f673abb06/full/!200,200/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "width": 3977,
+                                "height": 4964,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iiif-images.library.upenn.edu/iiif/2/e0d0c8a5-f8df-4e9d-9a37-720f673abb06",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                }
+                            },
+                            "on": "https://colenda.library.upenn.edu/items/ark:/81431/p34b2xs5b/canvas/p4"
+                        }
+                    ],
+                    "rendering": [
+                        {
+                            "@id": "https://colenda.library.upenn.edu/items/ark:/81431/p34b2xs5b/assets/e0d0c8a5-f8df-4e9d-9a37-720f673abb06/original",
+                            "label": "Original File - 59.3 MB",
+                            "format": "image/tiff"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://colenda.library.upenn.edu/items/ark:/81431/p34b2xs5b/canvas/p5",
+                    "@type": "sc:Canvas",
+                    "label": "2r",
+                    "height": 4881,
+                    "width": 3705,
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://iiif-images.library.upenn.edu/iiif/2/527086ee-0a72-4f48-85f0-24d3c72e3b40/full/!200,200/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "width": 3705,
+                                "height": 4881,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iiif-images.library.upenn.edu/iiif/2/527086ee-0a72-4f48-85f0-24d3c72e3b40",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                }
+                            },
+                            "on": "https://colenda.library.upenn.edu/items/ark:/81431/p34b2xs5b/canvas/p5"
+                        }
+                    ],
+                    "rendering": [
+                        {
+                            "@id": "https://colenda.library.upenn.edu/items/ark:/81431/p34b2xs5b/assets/527086ee-0a72-4f48-85f0-24d3c72e3b40/original",
+                            "label": "Original File - 54.3 MB",
+                            "format": "image/tiff"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://colenda.library.upenn.edu/items/ark:/81431/p34b2xs5b/canvas/p6",
+                    "@type": "sc:Canvas",
+                    "label": "2v",
+                    "height": 4964,
+                    "width": 3977,
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://iiif-images.library.upenn.edu/iiif/2/13dcdf7b-5414-442e-8436-2351db84258d/full/!200,200/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "width": 3977,
+                                "height": 4964,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iiif-images.library.upenn.edu/iiif/2/13dcdf7b-5414-442e-8436-2351db84258d",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                }
+                            },
+                            "on": "https://colenda.library.upenn.edu/items/ark:/81431/p34b2xs5b/canvas/p6"
+                        }
+                    ],
+                    "rendering": [
+                        {
+                            "@id": "https://colenda.library.upenn.edu/items/ark:/81431/p34b2xs5b/assets/13dcdf7b-5414-442e-8436-2351db84258d/original",
+                            "label": "Original File - 59.3 MB",
+                            "format": "image/tiff"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://colenda.library.upenn.edu/items/ark:/81431/p34b2xs5b/canvas/p7",
+                    "@type": "sc:Canvas",
+                    "label": "3r",
+                    "height": 4881,
+                    "width": 3705,
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://iiif-images.library.upenn.edu/iiif/2/b2b08ee2-df08-4d0e-b10a-ddf02df0fb80/full/!200,200/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "width": 3705,
+                                "height": 4881,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iiif-images.library.upenn.edu/iiif/2/b2b08ee2-df08-4d0e-b10a-ddf02df0fb80",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                }
+                            },
+                            "on": "https://colenda.library.upenn.edu/items/ark:/81431/p34b2xs5b/canvas/p7"
+                        }
+                    ],
+                    "rendering": [
+                        {
+                            "@id": "https://colenda.library.upenn.edu/items/ark:/81431/p34b2xs5b/assets/b2b08ee2-df08-4d0e-b10a-ddf02df0fb80/original",
+                            "label": "Original File - 54.3 MB",
+                            "format": "image/tiff"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://colenda.library.upenn.edu/items/ark:/81431/p34b2xs5b/canvas/p8",
+                    "@type": "sc:Canvas",
+                    "label": "3v",
+                    "height": 4964,
+                    "width": 3977,
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://iiif-images.library.upenn.edu/iiif/2/a45d51ee-3940-4d75-bbab-7a6bd2224923/full/!200,200/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "width": 3977,
+                                "height": 4964,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iiif-images.library.upenn.edu/iiif/2/a45d51ee-3940-4d75-bbab-7a6bd2224923",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                }
+                            },
+                            "on": "https://colenda.library.upenn.edu/items/ark:/81431/p34b2xs5b/canvas/p8"
+                        }
+                    ],
+                    "rendering": [
+                        {
+                            "@id": "https://colenda.library.upenn.edu/items/ark:/81431/p34b2xs5b/assets/a45d51ee-3940-4d75-bbab-7a6bd2224923/original",
+                            "label": "Original File - 59.3 MB",
+                            "format": "image/tiff"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://colenda.library.upenn.edu/items/ark:/81431/p34b2xs5b/canvas/p9",
+                    "@type": "sc:Canvas",
+                    "label": "4r",
+                    "height": 4881,
+                    "width": 3705,
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://iiif-images.library.upenn.edu/iiif/2/fe20312a-59a5-4700-94bb-4c2cc6379c62/full/!200,200/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "width": 3705,
+                                "height": 4881,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iiif-images.library.upenn.edu/iiif/2/fe20312a-59a5-4700-94bb-4c2cc6379c62",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                }
+                            },
+                            "on": "https://colenda.library.upenn.edu/items/ark:/81431/p34b2xs5b/canvas/p9"
+                        }
+                    ],
+                    "rendering": [
+                        {
+                            "@id": "https://colenda.library.upenn.edu/items/ark:/81431/p34b2xs5b/assets/fe20312a-59a5-4700-94bb-4c2cc6379c62/original",
+                            "label": "Original File - 54.3 MB",
+                            "format": "image/tiff"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://colenda.library.upenn.edu/items/ark:/81431/p34b2xs5b/canvas/p10",
+                    "@type": "sc:Canvas",
+                    "label": "4v",
+                    "height": 4964,
+                    "width": 3977,
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://iiif-images.library.upenn.edu/iiif/2/3f1b1e2c-32b5-4145-a53e-f4051b30210a/full/!200,200/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "width": 3977,
+                                "height": 4964,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iiif-images.library.upenn.edu/iiif/2/3f1b1e2c-32b5-4145-a53e-f4051b30210a",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                }
+                            },
+                            "on": "https://colenda.library.upenn.edu/items/ark:/81431/p34b2xs5b/canvas/p10"
+                        }
+                    ],
+                    "rendering": [
+                        {
+                            "@id": "https://colenda.library.upenn.edu/items/ark:/81431/p34b2xs5b/assets/3f1b1e2c-32b5-4145-a53e-f4051b30210a/original",
+                            "label": "Original File - 59.3 MB",
+                            "format": "image/tiff"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://colenda.library.upenn.edu/items/ark:/81431/p34b2xs5b/canvas/p11",
+                    "@type": "sc:Canvas",
+                    "label": "5r",
+                    "height": 4881,
+                    "width": 3705,
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://iiif-images.library.upenn.edu/iiif/2/1f4166cd-90a6-403e-bc0c-3f3e0d870b81/full/!200,200/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "width": 3705,
+                                "height": 4881,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iiif-images.library.upenn.edu/iiif/2/1f4166cd-90a6-403e-bc0c-3f3e0d870b81",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                }
+                            },
+                            "on": "https://colenda.library.upenn.edu/items/ark:/81431/p34b2xs5b/canvas/p11"
+                        }
+                    ],
+                    "rendering": [
+                        {
+                            "@id": "https://colenda.library.upenn.edu/items/ark:/81431/p34b2xs5b/assets/1f4166cd-90a6-403e-bc0c-3f3e0d870b81/original",
+                            "label": "Original File - 54.3 MB",
+                            "format": "image/tiff"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://colenda.library.upenn.edu/items/ark:/81431/p34b2xs5b/canvas/p12",
+                    "@type": "sc:Canvas",
+                    "label": "5v",
+                    "height": 4964,
+                    "width": 3977,
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://iiif-images.library.upenn.edu/iiif/2/2e0ed281-55e8-47b9-9708-49010e437736/full/!200,200/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "width": 3977,
+                                "height": 4964,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iiif-images.library.upenn.edu/iiif/2/2e0ed281-55e8-47b9-9708-49010e437736",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                }
+                            },
+                            "on": "https://colenda.library.upenn.edu/items/ark:/81431/p34b2xs5b/canvas/p12"
+                        }
+                    ],
+                    "rendering": [
+                        {
+                            "@id": "https://colenda.library.upenn.edu/items/ark:/81431/p34b2xs5b/assets/2e0ed281-55e8-47b9-9708-49010e437736/original",
+                            "label": "Original File - 59.3 MB",
+                            "format": "image/tiff"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://colenda.library.upenn.edu/items/ark:/81431/p34b2xs5b/canvas/p13",
+                    "@type": "sc:Canvas",
+                    "label": "6r",
+                    "height": 4881,
+                    "width": 3705,
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://iiif-images.library.upenn.edu/iiif/2/b33ce67c-07be-4035-a2f1-5a090b64002d/full/!200,200/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "width": 3705,
+                                "height": 4881,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iiif-images.library.upenn.edu/iiif/2/b33ce67c-07be-4035-a2f1-5a090b64002d",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                }
+                            },
+                            "on": "https://colenda.library.upenn.edu/items/ark:/81431/p34b2xs5b/canvas/p13"
+                        }
+                    ],
+                    "rendering": [
+                        {
+                            "@id": "https://colenda.library.upenn.edu/items/ark:/81431/p34b2xs5b/assets/b33ce67c-07be-4035-a2f1-5a090b64002d/original",
+                            "label": "Original File - 54.3 MB",
+                            "format": "image/tiff"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://colenda.library.upenn.edu/items/ark:/81431/p34b2xs5b/canvas/p14",
+                    "@type": "sc:Canvas",
+                    "label": "6v",
+                    "height": 4964,
+                    "width": 3977,
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://iiif-images.library.upenn.edu/iiif/2/9ee9e780-8df3-494a-aa65-3c9a344142a2/full/!200,200/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "width": 3977,
+                                "height": 4964,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iiif-images.library.upenn.edu/iiif/2/9ee9e780-8df3-494a-aa65-3c9a344142a2",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                }
+                            },
+                            "on": "https://colenda.library.upenn.edu/items/ark:/81431/p34b2xs5b/canvas/p14"
+                        }
+                    ],
+                    "rendering": [
+                        {
+                            "@id": "https://colenda.library.upenn.edu/items/ark:/81431/p34b2xs5b/assets/9ee9e780-8df3-494a-aa65-3c9a344142a2/original",
+                            "label": "Original File - 59.3 MB",
+                            "format": "image/tiff"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://colenda.library.upenn.edu/items/ark:/81431/p34b2xs5b/canvas/p15",
+                    "@type": "sc:Canvas",
+                    "label": "7r",
+                    "height": 4881,
+                    "width": 3705,
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://iiif-images.library.upenn.edu/iiif/2/812a0128-3a6b-4cb9-a71b-b48a6d9c3791/full/!200,200/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "width": 3705,
+                                "height": 4881,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iiif-images.library.upenn.edu/iiif/2/812a0128-3a6b-4cb9-a71b-b48a6d9c3791",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                }
+                            },
+                            "on": "https://colenda.library.upenn.edu/items/ark:/81431/p34b2xs5b/canvas/p15"
+                        }
+                    ],
+                    "rendering": [
+                        {
+                            "@id": "https://colenda.library.upenn.edu/items/ark:/81431/p34b2xs5b/assets/812a0128-3a6b-4cb9-a71b-b48a6d9c3791/original",
+                            "label": "Original File - 54.3 MB",
+                            "format": "image/tiff"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://colenda.library.upenn.edu/items/ark:/81431/p34b2xs5b/canvas/p16",
+                    "@type": "sc:Canvas",
+                    "label": "7v",
+                    "height": 4964,
+                    "width": 3977,
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://iiif-images.library.upenn.edu/iiif/2/c936b09a-ea5d-449f-82dd-ff38adafa440/full/!200,200/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "width": 3977,
+                                "height": 4964,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iiif-images.library.upenn.edu/iiif/2/c936b09a-ea5d-449f-82dd-ff38adafa440",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                }
+                            },
+                            "on": "https://colenda.library.upenn.edu/items/ark:/81431/p34b2xs5b/canvas/p16"
+                        }
+                    ],
+                    "rendering": [
+                        {
+                            "@id": "https://colenda.library.upenn.edu/items/ark:/81431/p34b2xs5b/assets/c936b09a-ea5d-449f-82dd-ff38adafa440/original",
+                            "label": "Original File - 59.3 MB",
+                            "format": "image/tiff"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://colenda.library.upenn.edu/items/ark:/81431/p34b2xs5b/canvas/p17",
+                    "@type": "sc:Canvas",
+                    "label": "8r",
+                    "height": 4964,
+                    "width": 4001,
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://iiif-images.library.upenn.edu/iiif/2/65ed6198-be10-4b26-931a-666b34d356d1/full/!200,200/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "width": 4001,
+                                "height": 4964,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iiif-images.library.upenn.edu/iiif/2/65ed6198-be10-4b26-931a-666b34d356d1",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                }
+                            },
+                            "on": "https://colenda.library.upenn.edu/items/ark:/81431/p34b2xs5b/canvas/p17"
+                        }
+                    ],
+                    "rendering": [
+                        {
+                            "@id": "https://colenda.library.upenn.edu/items/ark:/81431/p34b2xs5b/assets/65ed6198-be10-4b26-931a-666b34d356d1/original",
+                            "label": "Original File - 59.7 MB",
+                            "format": "image/tiff"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://colenda.library.upenn.edu/items/ark:/81431/p34b2xs5b/canvas/p18",
+                    "@type": "sc:Canvas",
+                    "label": "8v",
+                    "height": 4964,
+                    "width": 3977,
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://iiif-images.library.upenn.edu/iiif/2/f1ef97af-da80-4762-ba82-03d0807b1cba/full/!200,200/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "width": 3977,
+                                "height": 4964,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iiif-images.library.upenn.edu/iiif/2/f1ef97af-da80-4762-ba82-03d0807b1cba",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                }
+                            },
+                            "on": "https://colenda.library.upenn.edu/items/ark:/81431/p34b2xs5b/canvas/p18"
+                        }
+                    ],
+                    "rendering": [
+                        {
+                            "@id": "https://colenda.library.upenn.edu/items/ark:/81431/p34b2xs5b/assets/f1ef97af-da80-4762-ba82-03d0807b1cba/original",
+                            "label": "Original File - 59.3 MB",
+                            "format": "image/tiff"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://colenda.library.upenn.edu/items/ark:/81431/p34b2xs5b/canvas/p19",
+                    "@type": "sc:Canvas",
+                    "label": "9r",
+                    "height": 4964,
+                    "width": 4001,
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://iiif-images.library.upenn.edu/iiif/2/d6eca1f1-c8db-4778-85b5-819cfa29e30e/full/!200,200/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "width": 4001,
+                                "height": 4964,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iiif-images.library.upenn.edu/iiif/2/d6eca1f1-c8db-4778-85b5-819cfa29e30e",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                }
+                            },
+                            "on": "https://colenda.library.upenn.edu/items/ark:/81431/p34b2xs5b/canvas/p19"
+                        }
+                    ],
+                    "rendering": [
+                        {
+                            "@id": "https://colenda.library.upenn.edu/items/ark:/81431/p34b2xs5b/assets/d6eca1f1-c8db-4778-85b5-819cfa29e30e/original",
+                            "label": "Original File - 59.7 MB",
+                            "format": "image/tiff"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://colenda.library.upenn.edu/items/ark:/81431/p34b2xs5b/canvas/p20",
+                    "@type": "sc:Canvas",
+                    "label": "9v",
+                    "height": 4964,
+                    "width": 3977,
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://iiif-images.library.upenn.edu/iiif/2/de1c9715-204a-449c-a53f-e0d4adf6a961/full/!200,200/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "width": 3977,
+                                "height": 4964,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iiif-images.library.upenn.edu/iiif/2/de1c9715-204a-449c-a53f-e0d4adf6a961",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                }
+                            },
+                            "on": "https://colenda.library.upenn.edu/items/ark:/81431/p34b2xs5b/canvas/p20"
+                        }
+                    ],
+                    "rendering": [
+                        {
+                            "@id": "https://colenda.library.upenn.edu/items/ark:/81431/p34b2xs5b/assets/de1c9715-204a-449c-a53f-e0d4adf6a961/original",
+                            "label": "Original File - 59.3 MB",
+                            "format": "image/tiff"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://colenda.library.upenn.edu/items/ark:/81431/p34b2xs5b/canvas/p21",
+                    "@type": "sc:Canvas",
+                    "label": "10r",
+                    "height": 4964,
+                    "width": 4001,
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://iiif-images.library.upenn.edu/iiif/2/e3109fe9-0b8d-46a0-99f7-13965a503e29/full/!200,200/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "width": 4001,
+                                "height": 4964,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iiif-images.library.upenn.edu/iiif/2/e3109fe9-0b8d-46a0-99f7-13965a503e29",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                }
+                            },
+                            "on": "https://colenda.library.upenn.edu/items/ark:/81431/p34b2xs5b/canvas/p21"
+                        }
+                    ],
+                    "rendering": [
+                        {
+                            "@id": "https://colenda.library.upenn.edu/items/ark:/81431/p34b2xs5b/assets/e3109fe9-0b8d-46a0-99f7-13965a503e29/original",
+                            "label": "Original File - 59.7 MB",
+                            "format": "image/tiff"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://colenda.library.upenn.edu/items/ark:/81431/p34b2xs5b/canvas/p22",
+                    "@type": "sc:Canvas",
+                    "label": "10v",
+                    "height": 4964,
+                    "width": 3977,
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://iiif-images.library.upenn.edu/iiif/2/3e85d081-35b6-43e2-885c-fa64f827fdf8/full/!200,200/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "width": 3977,
+                                "height": 4964,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iiif-images.library.upenn.edu/iiif/2/3e85d081-35b6-43e2-885c-fa64f827fdf8",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                }
+                            },
+                            "on": "https://colenda.library.upenn.edu/items/ark:/81431/p34b2xs5b/canvas/p22"
+                        }
+                    ],
+                    "rendering": [
+                        {
+                            "@id": "https://colenda.library.upenn.edu/items/ark:/81431/p34b2xs5b/assets/3e85d081-35b6-43e2-885c-fa64f827fdf8/original",
+                            "label": "Original File - 59.3 MB",
+                            "format": "image/tiff"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://colenda.library.upenn.edu/items/ark:/81431/p34b2xs5b/canvas/p23",
+                    "@type": "sc:Canvas",
+                    "label": "11r",
+                    "height": 4964,
+                    "width": 4001,
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://iiif-images.library.upenn.edu/iiif/2/6dc7aef1-b392-4d5c-8446-d88e17bff3d9/full/!200,200/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "width": 4001,
+                                "height": 4964,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iiif-images.library.upenn.edu/iiif/2/6dc7aef1-b392-4d5c-8446-d88e17bff3d9",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                }
+                            },
+                            "on": "https://colenda.library.upenn.edu/items/ark:/81431/p34b2xs5b/canvas/p23"
+                        }
+                    ],
+                    "rendering": [
+                        {
+                            "@id": "https://colenda.library.upenn.edu/items/ark:/81431/p34b2xs5b/assets/6dc7aef1-b392-4d5c-8446-d88e17bff3d9/original",
+                            "label": "Original File - 59.7 MB",
+                            "format": "image/tiff"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://colenda.library.upenn.edu/items/ark:/81431/p34b2xs5b/canvas/p24",
+                    "@type": "sc:Canvas",
+                    "label": "11v",
+                    "height": 4964,
+                    "width": 3977,
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://iiif-images.library.upenn.edu/iiif/2/bb6c28b4-53a4-4f30-bf21-338649ab612a/full/!200,200/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "width": 3977,
+                                "height": 4964,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iiif-images.library.upenn.edu/iiif/2/bb6c28b4-53a4-4f30-bf21-338649ab612a",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                }
+                            },
+                            "on": "https://colenda.library.upenn.edu/items/ark:/81431/p34b2xs5b/canvas/p24"
+                        }
+                    ],
+                    "rendering": [
+                        {
+                            "@id": "https://colenda.library.upenn.edu/items/ark:/81431/p34b2xs5b/assets/bb6c28b4-53a4-4f30-bf21-338649ab612a/original",
+                            "label": "Original File - 59.3 MB",
+                            "format": "image/tiff"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://colenda.library.upenn.edu/items/ark:/81431/p34b2xs5b/canvas/p25",
+                    "@type": "sc:Canvas",
+                    "label": "12r",
+                    "height": 4964,
+                    "width": 4001,
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://iiif-images.library.upenn.edu/iiif/2/5b297c5e-b6da-4a1c-a315-5b29b344523c/full/!200,200/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "width": 4001,
+                                "height": 4964,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iiif-images.library.upenn.edu/iiif/2/5b297c5e-b6da-4a1c-a315-5b29b344523c",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                }
+                            },
+                            "on": "https://colenda.library.upenn.edu/items/ark:/81431/p34b2xs5b/canvas/p25"
+                        }
+                    ],
+                    "rendering": [
+                        {
+                            "@id": "https://colenda.library.upenn.edu/items/ark:/81431/p34b2xs5b/assets/5b297c5e-b6da-4a1c-a315-5b29b344523c/original",
+                            "label": "Original File - 59.7 MB",
+                            "format": "image/tiff"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://colenda.library.upenn.edu/items/ark:/81431/p34b2xs5b/canvas/p26",
+                    "@type": "sc:Canvas",
+                    "label": "12v",
+                    "height": 4964,
+                    "width": 3977,
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://iiif-images.library.upenn.edu/iiif/2/91539098-89ec-40d8-9ba2-00191fd1e0ac/full/!200,200/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "width": 3977,
+                                "height": 4964,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iiif-images.library.upenn.edu/iiif/2/91539098-89ec-40d8-9ba2-00191fd1e0ac",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                }
+                            },
+                            "on": "https://colenda.library.upenn.edu/items/ark:/81431/p34b2xs5b/canvas/p26"
+                        }
+                    ],
+                    "rendering": [
+                        {
+                            "@id": "https://colenda.library.upenn.edu/items/ark:/81431/p34b2xs5b/assets/91539098-89ec-40d8-9ba2-00191fd1e0ac/original",
+                            "label": "Original File - 59.3 MB",
+                            "format": "image/tiff"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://colenda.library.upenn.edu/items/ark:/81431/p34b2xs5b/canvas/p27",
+                    "@type": "sc:Canvas",
+                    "label": "13r",
+                    "height": 4964,
+                    "width": 4001,
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://iiif-images.library.upenn.edu/iiif/2/5a8b2dad-a6fc-400f-bc0a-85e51f576601/full/!200,200/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "width": 4001,
+                                "height": 4964,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iiif-images.library.upenn.edu/iiif/2/5a8b2dad-a6fc-400f-bc0a-85e51f576601",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                }
+                            },
+                            "on": "https://colenda.library.upenn.edu/items/ark:/81431/p34b2xs5b/canvas/p27"
+                        }
+                    ],
+                    "rendering": [
+                        {
+                            "@id": "https://colenda.library.upenn.edu/items/ark:/81431/p34b2xs5b/assets/5a8b2dad-a6fc-400f-bc0a-85e51f576601/original",
+                            "label": "Original File - 59.7 MB",
+                            "format": "image/tiff"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://colenda.library.upenn.edu/items/ark:/81431/p34b2xs5b/canvas/p28",
+                    "@type": "sc:Canvas",
+                    "label": "13v",
+                    "height": 4964,
+                    "width": 3977,
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://iiif-images.library.upenn.edu/iiif/2/9671e3a7-6cb9-4d35-bb85-bc6253dfcf90/full/!200,200/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "width": 3977,
+                                "height": 4964,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iiif-images.library.upenn.edu/iiif/2/9671e3a7-6cb9-4d35-bb85-bc6253dfcf90",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                }
+                            },
+                            "on": "https://colenda.library.upenn.edu/items/ark:/81431/p34b2xs5b/canvas/p28"
+                        }
+                    ],
+                    "rendering": [
+                        {
+                            "@id": "https://colenda.library.upenn.edu/items/ark:/81431/p34b2xs5b/assets/9671e3a7-6cb9-4d35-bb85-bc6253dfcf90/original",
+                            "label": "Original File - 59.3 MB",
+                            "format": "image/tiff"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://colenda.library.upenn.edu/items/ark:/81431/p34b2xs5b/canvas/p29",
+                    "@type": "sc:Canvas",
+                    "label": "14r",
+                    "height": 4964,
+                    "width": 4001,
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://iiif-images.library.upenn.edu/iiif/2/5f0575dd-d2f6-4e0d-aa7c-ae9f9ff71111/full/!200,200/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "width": 4001,
+                                "height": 4964,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iiif-images.library.upenn.edu/iiif/2/5f0575dd-d2f6-4e0d-aa7c-ae9f9ff71111",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                }
+                            },
+                            "on": "https://colenda.library.upenn.edu/items/ark:/81431/p34b2xs5b/canvas/p29"
+                        }
+                    ],
+                    "rendering": [
+                        {
+                            "@id": "https://colenda.library.upenn.edu/items/ark:/81431/p34b2xs5b/assets/5f0575dd-d2f6-4e0d-aa7c-ae9f9ff71111/original",
+                            "label": "Original File - 59.7 MB",
+                            "format": "image/tiff"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://colenda.library.upenn.edu/items/ark:/81431/p34b2xs5b/canvas/p30",
+                    "@type": "sc:Canvas",
+                    "label": "14v",
+                    "height": 4964,
+                    "width": 3977,
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://iiif-images.library.upenn.edu/iiif/2/6006b124-e448-43a0-937e-73e365ad2a70/full/!200,200/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "width": 3977,
+                                "height": 4964,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iiif-images.library.upenn.edu/iiif/2/6006b124-e448-43a0-937e-73e365ad2a70",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                }
+                            },
+                            "on": "https://colenda.library.upenn.edu/items/ark:/81431/p34b2xs5b/canvas/p30"
+                        }
+                    ],
+                    "rendering": [
+                        {
+                            "@id": "https://colenda.library.upenn.edu/items/ark:/81431/p34b2xs5b/assets/6006b124-e448-43a0-937e-73e365ad2a70/original",
+                            "label": "Original File - 59.3 MB",
+                            "format": "image/tiff"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://colenda.library.upenn.edu/items/ark:/81431/p34b2xs5b/canvas/p31",
+                    "@type": "sc:Canvas",
+                    "label": "15r",
+                    "height": 4964,
+                    "width": 4017,
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://iiif-images.library.upenn.edu/iiif/2/48b8c309-fdca-42c0-8c5e-b5c5af7317d8/full/!200,200/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "width": 4017,
+                                "height": 4964,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iiif-images.library.upenn.edu/iiif/2/48b8c309-fdca-42c0-8c5e-b5c5af7317d8",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                }
+                            },
+                            "on": "https://colenda.library.upenn.edu/items/ark:/81431/p34b2xs5b/canvas/p31"
+                        }
+                    ],
+                    "rendering": [
+                        {
+                            "@id": "https://colenda.library.upenn.edu/items/ark:/81431/p34b2xs5b/assets/48b8c309-fdca-42c0-8c5e-b5c5af7317d8/original",
+                            "label": "Original File - 59.9 MB",
+                            "format": "image/tiff"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://colenda.library.upenn.edu/items/ark:/81431/p34b2xs5b/canvas/p32",
+                    "@type": "sc:Canvas",
+                    "label": "15v",
+                    "height": 4964,
+                    "width": 3977,
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://iiif-images.library.upenn.edu/iiif/2/1156fb14-284f-42cc-8ab5-b372884fcbd2/full/!200,200/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "width": 3977,
+                                "height": 4964,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iiif-images.library.upenn.edu/iiif/2/1156fb14-284f-42cc-8ab5-b372884fcbd2",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                }
+                            },
+                            "on": "https://colenda.library.upenn.edu/items/ark:/81431/p34b2xs5b/canvas/p32"
+                        }
+                    ],
+                    "rendering": [
+                        {
+                            "@id": "https://colenda.library.upenn.edu/items/ark:/81431/p34b2xs5b/assets/1156fb14-284f-42cc-8ab5-b372884fcbd2/original",
+                            "label": "Original File - 59.3 MB",
+                            "format": "image/tiff"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://colenda.library.upenn.edu/items/ark:/81431/p34b2xs5b/canvas/p33",
+                    "@type": "sc:Canvas",
+                    "label": "16r",
+                    "height": 4964,
+                    "width": 4001,
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://iiif-images.library.upenn.edu/iiif/2/f1e2d8e8-5199-4a8c-8ecc-c2b7f75c9eb6/full/!200,200/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "width": 4001,
+                                "height": 4964,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iiif-images.library.upenn.edu/iiif/2/f1e2d8e8-5199-4a8c-8ecc-c2b7f75c9eb6",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                }
+                            },
+                            "on": "https://colenda.library.upenn.edu/items/ark:/81431/p34b2xs5b/canvas/p33"
+                        }
+                    ],
+                    "rendering": [
+                        {
+                            "@id": "https://colenda.library.upenn.edu/items/ark:/81431/p34b2xs5b/assets/f1e2d8e8-5199-4a8c-8ecc-c2b7f75c9eb6/original",
+                            "label": "Original File - 59.7 MB",
+                            "format": "image/tiff"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://colenda.library.upenn.edu/items/ark:/81431/p34b2xs5b/canvas/p34",
+                    "@type": "sc:Canvas",
+                    "label": "16v",
+                    "height": 4964,
+                    "width": 3977,
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://iiif-images.library.upenn.edu/iiif/2/606530ac-6abe-445c-b1dc-566b7334eeb0/full/!200,200/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "width": 3977,
+                                "height": 4964,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iiif-images.library.upenn.edu/iiif/2/606530ac-6abe-445c-b1dc-566b7334eeb0",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                }
+                            },
+                            "on": "https://colenda.library.upenn.edu/items/ark:/81431/p34b2xs5b/canvas/p34"
+                        }
+                    ],
+                    "rendering": [
+                        {
+                            "@id": "https://colenda.library.upenn.edu/items/ark:/81431/p34b2xs5b/assets/606530ac-6abe-445c-b1dc-566b7334eeb0/original",
+                            "label": "Original File - 59.3 MB",
+                            "format": "image/tiff"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://colenda.library.upenn.edu/items/ark:/81431/p34b2xs5b/canvas/p35",
+                    "@type": "sc:Canvas",
+                    "label": "17r",
+                    "height": 4964,
+                    "width": 4001,
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://iiif-images.library.upenn.edu/iiif/2/42cb6115-ab87-40a2-9913-430d76d7a363/full/!200,200/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "width": 4001,
+                                "height": 4964,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iiif-images.library.upenn.edu/iiif/2/42cb6115-ab87-40a2-9913-430d76d7a363",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                }
+                            },
+                            "on": "https://colenda.library.upenn.edu/items/ark:/81431/p34b2xs5b/canvas/p35"
+                        }
+                    ],
+                    "rendering": [
+                        {
+                            "@id": "https://colenda.library.upenn.edu/items/ark:/81431/p34b2xs5b/assets/42cb6115-ab87-40a2-9913-430d76d7a363/original",
+                            "label": "Original File - 59.7 MB",
+                            "format": "image/tiff"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://colenda.library.upenn.edu/items/ark:/81431/p34b2xs5b/canvas/p36",
+                    "@type": "sc:Canvas",
+                    "label": "17v",
+                    "height": 4964,
+                    "width": 3977,
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://iiif-images.library.upenn.edu/iiif/2/9e925cbd-f10a-4c97-9c66-f37b6bf5bd3d/full/!200,200/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "width": 3977,
+                                "height": 4964,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iiif-images.library.upenn.edu/iiif/2/9e925cbd-f10a-4c97-9c66-f37b6bf5bd3d",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                }
+                            },
+                            "on": "https://colenda.library.upenn.edu/items/ark:/81431/p34b2xs5b/canvas/p36"
+                        }
+                    ],
+                    "rendering": [
+                        {
+                            "@id": "https://colenda.library.upenn.edu/items/ark:/81431/p34b2xs5b/assets/9e925cbd-f10a-4c97-9c66-f37b6bf5bd3d/original",
+                            "label": "Original File - 59.3 MB",
+                            "format": "image/tiff"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://colenda.library.upenn.edu/items/ark:/81431/p34b2xs5b/canvas/p37",
+                    "@type": "sc:Canvas",
+                    "label": "18r",
+                    "height": 4964,
+                    "width": 4001,
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://iiif-images.library.upenn.edu/iiif/2/2b01a2e0-5336-4704-95f4-577ea1ab93eb/full/!200,200/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "width": 4001,
+                                "height": 4964,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iiif-images.library.upenn.edu/iiif/2/2b01a2e0-5336-4704-95f4-577ea1ab93eb",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                }
+                            },
+                            "on": "https://colenda.library.upenn.edu/items/ark:/81431/p34b2xs5b/canvas/p37"
+                        }
+                    ],
+                    "rendering": [
+                        {
+                            "@id": "https://colenda.library.upenn.edu/items/ark:/81431/p34b2xs5b/assets/2b01a2e0-5336-4704-95f4-577ea1ab93eb/original",
+                            "label": "Original File - 59.7 MB",
+                            "format": "image/tiff"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://colenda.library.upenn.edu/items/ark:/81431/p34b2xs5b/canvas/p38",
+                    "@type": "sc:Canvas",
+                    "label": "18v",
+                    "height": 4964,
+                    "width": 3977,
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://iiif-images.library.upenn.edu/iiif/2/acc26d90-d5ef-43f6-88c5-48c923c333e2/full/!200,200/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "width": 3977,
+                                "height": 4964,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iiif-images.library.upenn.edu/iiif/2/acc26d90-d5ef-43f6-88c5-48c923c333e2",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                }
+                            },
+                            "on": "https://colenda.library.upenn.edu/items/ark:/81431/p34b2xs5b/canvas/p38"
+                        }
+                    ],
+                    "rendering": [
+                        {
+                            "@id": "https://colenda.library.upenn.edu/items/ark:/81431/p34b2xs5b/assets/acc26d90-d5ef-43f6-88c5-48c923c333e2/original",
+                            "label": "Original File - 59.3 MB",
+                            "format": "image/tiff"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://colenda.library.upenn.edu/items/ark:/81431/p34b2xs5b/canvas/p39",
+                    "@type": "sc:Canvas",
+                    "label": "19r",
+                    "height": 4964,
+                    "width": 4001,
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://iiif-images.library.upenn.edu/iiif/2/7b23bce2-8de9-47f1-a40d-84523c12308e/full/!200,200/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "width": 4001,
+                                "height": 4964,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iiif-images.library.upenn.edu/iiif/2/7b23bce2-8de9-47f1-a40d-84523c12308e",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                }
+                            },
+                            "on": "https://colenda.library.upenn.edu/items/ark:/81431/p34b2xs5b/canvas/p39"
+                        }
+                    ],
+                    "rendering": [
+                        {
+                            "@id": "https://colenda.library.upenn.edu/items/ark:/81431/p34b2xs5b/assets/7b23bce2-8de9-47f1-a40d-84523c12308e/original",
+                            "label": "Original File - 59.7 MB",
+                            "format": "image/tiff"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://colenda.library.upenn.edu/items/ark:/81431/p34b2xs5b/canvas/p40",
+                    "@type": "sc:Canvas",
+                    "label": "19v",
+                    "height": 4964,
+                    "width": 3977,
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://iiif-images.library.upenn.edu/iiif/2/0f4b7dd3-99e2-4b01-a24e-68ca4f68defa/full/!200,200/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "width": 3977,
+                                "height": 4964,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iiif-images.library.upenn.edu/iiif/2/0f4b7dd3-99e2-4b01-a24e-68ca4f68defa",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                }
+                            },
+                            "on": "https://colenda.library.upenn.edu/items/ark:/81431/p34b2xs5b/canvas/p40"
+                        }
+                    ],
+                    "rendering": [
+                        {
+                            "@id": "https://colenda.library.upenn.edu/items/ark:/81431/p34b2xs5b/assets/0f4b7dd3-99e2-4b01-a24e-68ca4f68defa/original",
+                            "label": "Original File - 59.3 MB",
+                            "format": "image/tiff"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://colenda.library.upenn.edu/items/ark:/81431/p34b2xs5b/canvas/p41",
+                    "@type": "sc:Canvas",
+                    "label": "20r",
+                    "height": 4964,
+                    "width": 4001,
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://iiif-images.library.upenn.edu/iiif/2/194cb186-e031-410b-ae2d-9ff6b139c95d/full/!200,200/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "width": 4001,
+                                "height": 4964,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iiif-images.library.upenn.edu/iiif/2/194cb186-e031-410b-ae2d-9ff6b139c95d",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                }
+                            },
+                            "on": "https://colenda.library.upenn.edu/items/ark:/81431/p34b2xs5b/canvas/p41"
+                        }
+                    ],
+                    "rendering": [
+                        {
+                            "@id": "https://colenda.library.upenn.edu/items/ark:/81431/p34b2xs5b/assets/194cb186-e031-410b-ae2d-9ff6b139c95d/original",
+                            "label": "Original File - 59.7 MB",
+                            "format": "image/tiff"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://colenda.library.upenn.edu/items/ark:/81431/p34b2xs5b/canvas/p42",
+                    "@type": "sc:Canvas",
+                    "label": "20v",
+                    "height": 4964,
+                    "width": 3977,
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://iiif-images.library.upenn.edu/iiif/2/540f4b9c-9d99-4c58-9b35-8040ba6c2bae/full/!200,200/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "width": 3977,
+                                "height": 4964,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iiif-images.library.upenn.edu/iiif/2/540f4b9c-9d99-4c58-9b35-8040ba6c2bae",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                }
+                            },
+                            "on": "https://colenda.library.upenn.edu/items/ark:/81431/p34b2xs5b/canvas/p42"
+                        }
+                    ],
+                    "rendering": [
+                        {
+                            "@id": "https://colenda.library.upenn.edu/items/ark:/81431/p34b2xs5b/assets/540f4b9c-9d99-4c58-9b35-8040ba6c2bae/original",
+                            "label": "Original File - 59.3 MB",
+                            "format": "image/tiff"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://colenda.library.upenn.edu/items/ark:/81431/p34b2xs5b/canvas/p43",
+                    "@type": "sc:Canvas",
+                    "label": "21r",
+                    "height": 4964,
+                    "width": 4001,
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://iiif-images.library.upenn.edu/iiif/2/1ff2984f-a139-44b0-8130-3a5f31b385d5/full/!200,200/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "width": 4001,
+                                "height": 4964,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iiif-images.library.upenn.edu/iiif/2/1ff2984f-a139-44b0-8130-3a5f31b385d5",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                }
+                            },
+                            "on": "https://colenda.library.upenn.edu/items/ark:/81431/p34b2xs5b/canvas/p43"
+                        }
+                    ],
+                    "rendering": [
+                        {
+                            "@id": "https://colenda.library.upenn.edu/items/ark:/81431/p34b2xs5b/assets/1ff2984f-a139-44b0-8130-3a5f31b385d5/original",
+                            "label": "Original File - 59.7 MB",
+                            "format": "image/tiff"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://colenda.library.upenn.edu/items/ark:/81431/p34b2xs5b/canvas/p44",
+                    "@type": "sc:Canvas",
+                    "label": "21v",
+                    "height": 4964,
+                    "width": 3977,
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://iiif-images.library.upenn.edu/iiif/2/18c7fc99-3959-4974-9004-d41ab6e013ed/full/!200,200/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "width": 3977,
+                                "height": 4964,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iiif-images.library.upenn.edu/iiif/2/18c7fc99-3959-4974-9004-d41ab6e013ed",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                }
+                            },
+                            "on": "https://colenda.library.upenn.edu/items/ark:/81431/p34b2xs5b/canvas/p44"
+                        }
+                    ],
+                    "rendering": [
+                        {
+                            "@id": "https://colenda.library.upenn.edu/items/ark:/81431/p34b2xs5b/assets/18c7fc99-3959-4974-9004-d41ab6e013ed/original",
+                            "label": "Original File - 59.3 MB",
+                            "format": "image/tiff"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://colenda.library.upenn.edu/items/ark:/81431/p34b2xs5b/canvas/p45",
+                    "@type": "sc:Canvas",
+                    "label": "22r",
+                    "height": 4964,
+                    "width": 4001,
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://iiif-images.library.upenn.edu/iiif/2/3c402ec1-78c9-46a3-adb1-ccce3a9ac547/full/!200,200/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "width": 4001,
+                                "height": 4964,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iiif-images.library.upenn.edu/iiif/2/3c402ec1-78c9-46a3-adb1-ccce3a9ac547",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                }
+                            },
+                            "on": "https://colenda.library.upenn.edu/items/ark:/81431/p34b2xs5b/canvas/p45"
+                        }
+                    ],
+                    "rendering": [
+                        {
+                            "@id": "https://colenda.library.upenn.edu/items/ark:/81431/p34b2xs5b/assets/3c402ec1-78c9-46a3-adb1-ccce3a9ac547/original",
+                            "label": "Original File - 59.7 MB",
+                            "format": "image/tiff"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://colenda.library.upenn.edu/items/ark:/81431/p34b2xs5b/canvas/p46",
+                    "@type": "sc:Canvas",
+                    "label": "22v",
+                    "height": 4964,
+                    "width": 4033,
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://iiif-images.library.upenn.edu/iiif/2/4a1c1d0d-c670-4367-b32d-2b3bd23cc168/full/!200,200/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "width": 4033,
+                                "height": 4964,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iiif-images.library.upenn.edu/iiif/2/4a1c1d0d-c670-4367-b32d-2b3bd23cc168",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                }
+                            },
+                            "on": "https://colenda.library.upenn.edu/items/ark:/81431/p34b2xs5b/canvas/p46"
+                        }
+                    ],
+                    "rendering": [
+                        {
+                            "@id": "https://colenda.library.upenn.edu/items/ark:/81431/p34b2xs5b/assets/4a1c1d0d-c670-4367-b32d-2b3bd23cc168/original",
+                            "label": "Original File - 60.1 MB",
+                            "format": "image/tiff"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://colenda.library.upenn.edu/items/ark:/81431/p34b2xs5b/canvas/p47",
+                    "@type": "sc:Canvas",
+                    "label": "23r",
+                    "height": 4964,
+                    "width": 4001,
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://iiif-images.library.upenn.edu/iiif/2/326264a7-9909-4737-a51a-bd57ca79c09e/full/!200,200/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "width": 4001,
+                                "height": 4964,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iiif-images.library.upenn.edu/iiif/2/326264a7-9909-4737-a51a-bd57ca79c09e",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                }
+                            },
+                            "on": "https://colenda.library.upenn.edu/items/ark:/81431/p34b2xs5b/canvas/p47"
+                        }
+                    ],
+                    "rendering": [
+                        {
+                            "@id": "https://colenda.library.upenn.edu/items/ark:/81431/p34b2xs5b/assets/326264a7-9909-4737-a51a-bd57ca79c09e/original",
+                            "label": "Original File - 59.7 MB",
+                            "format": "image/tiff"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://colenda.library.upenn.edu/items/ark:/81431/p34b2xs5b/canvas/p48",
+                    "@type": "sc:Canvas",
+                    "label": "23v",
+                    "height": 4964,
+                    "width": 3977,
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://iiif-images.library.upenn.edu/iiif/2/cd3838a8-7c4f-4916-b97d-0f20186ab269/full/!200,200/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "width": 3977,
+                                "height": 4964,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iiif-images.library.upenn.edu/iiif/2/cd3838a8-7c4f-4916-b97d-0f20186ab269",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                }
+                            },
+                            "on": "https://colenda.library.upenn.edu/items/ark:/81431/p34b2xs5b/canvas/p48"
+                        }
+                    ],
+                    "rendering": [
+                        {
+                            "@id": "https://colenda.library.upenn.edu/items/ark:/81431/p34b2xs5b/assets/cd3838a8-7c4f-4916-b97d-0f20186ab269/original",
+                            "label": "Original File - 59.3 MB",
+                            "format": "image/tiff"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://colenda.library.upenn.edu/items/ark:/81431/p34b2xs5b/canvas/p49",
+                    "@type": "sc:Canvas",
+                    "label": "24r",
+                    "height": 4964,
+                    "width": 4001,
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://iiif-images.library.upenn.edu/iiif/2/923a75b6-ab76-4e60-a386-9d017ea27b13/full/!200,200/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "width": 4001,
+                                "height": 4964,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iiif-images.library.upenn.edu/iiif/2/923a75b6-ab76-4e60-a386-9d017ea27b13",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                }
+                            },
+                            "on": "https://colenda.library.upenn.edu/items/ark:/81431/p34b2xs5b/canvas/p49"
+                        }
+                    ],
+                    "rendering": [
+                        {
+                            "@id": "https://colenda.library.upenn.edu/items/ark:/81431/p34b2xs5b/assets/923a75b6-ab76-4e60-a386-9d017ea27b13/original",
+                            "label": "Original File - 59.7 MB",
+                            "format": "image/tiff"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://colenda.library.upenn.edu/items/ark:/81431/p34b2xs5b/canvas/p50",
+                    "@type": "sc:Canvas",
+                    "label": "24v",
+                    "height": 4964,
+                    "width": 3977,
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://iiif-images.library.upenn.edu/iiif/2/44861f8d-4e8e-48f2-9078-de58845771e5/full/!200,200/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "width": 3977,
+                                "height": 4964,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iiif-images.library.upenn.edu/iiif/2/44861f8d-4e8e-48f2-9078-de58845771e5",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                }
+                            },
+                            "on": "https://colenda.library.upenn.edu/items/ark:/81431/p34b2xs5b/canvas/p50"
+                        }
+                    ],
+                    "rendering": [
+                        {
+                            "@id": "https://colenda.library.upenn.edu/items/ark:/81431/p34b2xs5b/assets/44861f8d-4e8e-48f2-9078-de58845771e5/original",
+                            "label": "Original File - 59.3 MB",
+                            "format": "image/tiff"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://colenda.library.upenn.edu/items/ark:/81431/p34b2xs5b/canvas/p51",
+                    "@type": "sc:Canvas",
+                    "label": "25r",
+                    "height": 4964,
+                    "width": 4001,
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://iiif-images.library.upenn.edu/iiif/2/8a96f4d5-fa9f-4952-9de0-f905694470e3/full/!200,200/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "width": 4001,
+                                "height": 4964,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iiif-images.library.upenn.edu/iiif/2/8a96f4d5-fa9f-4952-9de0-f905694470e3",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                }
+                            },
+                            "on": "https://colenda.library.upenn.edu/items/ark:/81431/p34b2xs5b/canvas/p51"
+                        }
+                    ],
+                    "rendering": [
+                        {
+                            "@id": "https://colenda.library.upenn.edu/items/ark:/81431/p34b2xs5b/assets/8a96f4d5-fa9f-4952-9de0-f905694470e3/original",
+                            "label": "Original File - 59.7 MB",
+                            "format": "image/tiff"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://colenda.library.upenn.edu/items/ark:/81431/p34b2xs5b/canvas/p52",
+                    "@type": "sc:Canvas",
+                    "label": "25v",
+                    "height": 4964,
+                    "width": 4065,
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://iiif-images.library.upenn.edu/iiif/2/dcb625bb-7e97-41b0-94cc-ccfc4449909b/full/!200,200/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "width": 4065,
+                                "height": 4964,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iiif-images.library.upenn.edu/iiif/2/dcb625bb-7e97-41b0-94cc-ccfc4449909b",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                }
+                            },
+                            "on": "https://colenda.library.upenn.edu/items/ark:/81431/p34b2xs5b/canvas/p52"
+                        }
+                    ],
+                    "rendering": [
+                        {
+                            "@id": "https://colenda.library.upenn.edu/items/ark:/81431/p34b2xs5b/assets/dcb625bb-7e97-41b0-94cc-ccfc4449909b/original",
+                            "label": "Original File - 60.6 MB",
+                            "format": "image/tiff"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://colenda.library.upenn.edu/items/ark:/81431/p34b2xs5b/canvas/p53",
+                    "@type": "sc:Canvas",
+                    "label": "26r",
+                    "height": 4964,
+                    "width": 4001,
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://iiif-images.library.upenn.edu/iiif/2/557e8fcc-fb55-4d67-9ddf-82126aadfa82/full/!200,200/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "width": 4001,
+                                "height": 4964,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iiif-images.library.upenn.edu/iiif/2/557e8fcc-fb55-4d67-9ddf-82126aadfa82",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                }
+                            },
+                            "on": "https://colenda.library.upenn.edu/items/ark:/81431/p34b2xs5b/canvas/p53"
+                        }
+                    ],
+                    "rendering": [
+                        {
+                            "@id": "https://colenda.library.upenn.edu/items/ark:/81431/p34b2xs5b/assets/557e8fcc-fb55-4d67-9ddf-82126aadfa82/original",
+                            "label": "Original File - 59.7 MB",
+                            "format": "image/tiff"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://colenda.library.upenn.edu/items/ark:/81431/p34b2xs5b/canvas/p54",
+                    "@type": "sc:Canvas",
+                    "label": "26v",
+                    "height": 4964,
+                    "width": 3953,
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://iiif-images.library.upenn.edu/iiif/2/8ff65de6-3ae2-4444-ba5c-ae5b162c9a81/full/!200,200/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "width": 3953,
+                                "height": 4964,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iiif-images.library.upenn.edu/iiif/2/8ff65de6-3ae2-4444-ba5c-ae5b162c9a81",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                }
+                            },
+                            "on": "https://colenda.library.upenn.edu/items/ark:/81431/p34b2xs5b/canvas/p54"
+                        }
+                    ],
+                    "rendering": [
+                        {
+                            "@id": "https://colenda.library.upenn.edu/items/ark:/81431/p34b2xs5b/assets/8ff65de6-3ae2-4444-ba5c-ae5b162c9a81/original",
+                            "label": "Original File - 58.9 MB",
+                            "format": "image/tiff"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://colenda.library.upenn.edu/items/ark:/81431/p34b2xs5b/canvas/p55",
+                    "@type": "sc:Canvas",
+                    "label": "27r",
+                    "height": 4964,
+                    "width": 4001,
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://iiif-images.library.upenn.edu/iiif/2/5ec597fb-c765-4bf5-99d2-852bf18d608f/full/!200,200/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "width": 4001,
+                                "height": 4964,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iiif-images.library.upenn.edu/iiif/2/5ec597fb-c765-4bf5-99d2-852bf18d608f",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                }
+                            },
+                            "on": "https://colenda.library.upenn.edu/items/ark:/81431/p34b2xs5b/canvas/p55"
+                        }
+                    ],
+                    "rendering": [
+                        {
+                            "@id": "https://colenda.library.upenn.edu/items/ark:/81431/p34b2xs5b/assets/5ec597fb-c765-4bf5-99d2-852bf18d608f/original",
+                            "label": "Original File - 59.7 MB",
+                            "format": "image/tiff"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://colenda.library.upenn.edu/items/ark:/81431/p34b2xs5b/canvas/p56",
+                    "@type": "sc:Canvas",
+                    "label": "27v",
+                    "height": 4988,
+                    "width": 3953,
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://iiif-images.library.upenn.edu/iiif/2/6d60d37e-12ba-4b12-a447-5ac79fa017b1/full/!200,200/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "width": 3953,
+                                "height": 4988,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iiif-images.library.upenn.edu/iiif/2/6d60d37e-12ba-4b12-a447-5ac79fa017b1",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                }
+                            },
+                            "on": "https://colenda.library.upenn.edu/items/ark:/81431/p34b2xs5b/canvas/p56"
+                        }
+                    ],
+                    "rendering": [
+                        {
+                            "@id": "https://colenda.library.upenn.edu/items/ark:/81431/p34b2xs5b/assets/6d60d37e-12ba-4b12-a447-5ac79fa017b1/original",
+                            "label": "Original File - 59.2 MB",
+                            "format": "image/tiff"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://colenda.library.upenn.edu/items/ark:/81431/p34b2xs5b/canvas/p57",
+                    "@type": "sc:Canvas",
+                    "label": "28r",
+                    "height": 4964,
+                    "width": 4001,
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://iiif-images.library.upenn.edu/iiif/2/bd3003b9-52f8-4288-9d40-985f5b220bc1/full/!200,200/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "width": 4001,
+                                "height": 4964,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iiif-images.library.upenn.edu/iiif/2/bd3003b9-52f8-4288-9d40-985f5b220bc1",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                }
+                            },
+                            "on": "https://colenda.library.upenn.edu/items/ark:/81431/p34b2xs5b/canvas/p57"
+                        }
+                    ],
+                    "rendering": [
+                        {
+                            "@id": "https://colenda.library.upenn.edu/items/ark:/81431/p34b2xs5b/assets/bd3003b9-52f8-4288-9d40-985f5b220bc1/original",
+                            "label": "Original File - 59.7 MB",
+                            "format": "image/tiff"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://colenda.library.upenn.edu/items/ark:/81431/p34b2xs5b/canvas/p58",
+                    "@type": "sc:Canvas",
+                    "label": "28v",
+                    "height": 4964,
+                    "width": 3977,
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://iiif-images.library.upenn.edu/iiif/2/a55647fc-99a6-4357-bbf4-e679ab8dc6b7/full/!200,200/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "width": 3977,
+                                "height": 4964,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iiif-images.library.upenn.edu/iiif/2/a55647fc-99a6-4357-bbf4-e679ab8dc6b7",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                }
+                            },
+                            "on": "https://colenda.library.upenn.edu/items/ark:/81431/p34b2xs5b/canvas/p58"
+                        }
+                    ],
+                    "rendering": [
+                        {
+                            "@id": "https://colenda.library.upenn.edu/items/ark:/81431/p34b2xs5b/assets/a55647fc-99a6-4357-bbf4-e679ab8dc6b7/original",
+                            "label": "Original File - 59.3 MB",
+                            "format": "image/tiff"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://colenda.library.upenn.edu/items/ark:/81431/p34b2xs5b/canvas/p59",
+                    "@type": "sc:Canvas",
+                    "label": "29r",
+                    "height": 4964,
+                    "width": 4001,
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://iiif-images.library.upenn.edu/iiif/2/ae2cffbb-14dd-4bda-ae34-b584107f63ba/full/!200,200/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "width": 4001,
+                                "height": 4964,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iiif-images.library.upenn.edu/iiif/2/ae2cffbb-14dd-4bda-ae34-b584107f63ba",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                }
+                            },
+                            "on": "https://colenda.library.upenn.edu/items/ark:/81431/p34b2xs5b/canvas/p59"
+                        }
+                    ],
+                    "rendering": [
+                        {
+                            "@id": "https://colenda.library.upenn.edu/items/ark:/81431/p34b2xs5b/assets/ae2cffbb-14dd-4bda-ae34-b584107f63ba/original",
+                            "label": "Original File - 59.7 MB",
+                            "format": "image/tiff"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://colenda.library.upenn.edu/items/ark:/81431/p34b2xs5b/canvas/p60",
+                    "@type": "sc:Canvas",
+                    "label": "29v",
+                    "height": 4964,
+                    "width": 3977,
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://iiif-images.library.upenn.edu/iiif/2/6e51677d-42f6-4b76-9ef4-85c02d4df322/full/!200,200/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "width": 3977,
+                                "height": 4964,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iiif-images.library.upenn.edu/iiif/2/6e51677d-42f6-4b76-9ef4-85c02d4df322",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                }
+                            },
+                            "on": "https://colenda.library.upenn.edu/items/ark:/81431/p34b2xs5b/canvas/p60"
+                        }
+                    ],
+                    "rendering": [
+                        {
+                            "@id": "https://colenda.library.upenn.edu/items/ark:/81431/p34b2xs5b/assets/6e51677d-42f6-4b76-9ef4-85c02d4df322/original",
+                            "label": "Original File - 59.3 MB",
+                            "format": "image/tiff"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://colenda.library.upenn.edu/items/ark:/81431/p34b2xs5b/canvas/p61",
+                    "@type": "sc:Canvas",
+                    "label": "30r",
+                    "height": 4964,
+                    "width": 4001,
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://iiif-images.library.upenn.edu/iiif/2/4cf85a97-3d52-47db-8f84-0b5ac0e40d7c/full/!200,200/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "width": 4001,
+                                "height": 4964,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iiif-images.library.upenn.edu/iiif/2/4cf85a97-3d52-47db-8f84-0b5ac0e40d7c",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                }
+                            },
+                            "on": "https://colenda.library.upenn.edu/items/ark:/81431/p34b2xs5b/canvas/p61"
+                        }
+                    ],
+                    "rendering": [
+                        {
+                            "@id": "https://colenda.library.upenn.edu/items/ark:/81431/p34b2xs5b/assets/4cf85a97-3d52-47db-8f84-0b5ac0e40d7c/original",
+                            "label": "Original File - 59.7 MB",
+                            "format": "image/tiff"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://colenda.library.upenn.edu/items/ark:/81431/p34b2xs5b/canvas/p62",
+                    "@type": "sc:Canvas",
+                    "label": "30v",
+                    "height": 4964,
+                    "width": 3977,
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://iiif-images.library.upenn.edu/iiif/2/327e26e7-c517-44c3-bc38-4955eb04d457/full/!200,200/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "width": 3977,
+                                "height": 4964,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iiif-images.library.upenn.edu/iiif/2/327e26e7-c517-44c3-bc38-4955eb04d457",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                }
+                            },
+                            "on": "https://colenda.library.upenn.edu/items/ark:/81431/p34b2xs5b/canvas/p62"
+                        }
+                    ],
+                    "rendering": [
+                        {
+                            "@id": "https://colenda.library.upenn.edu/items/ark:/81431/p34b2xs5b/assets/327e26e7-c517-44c3-bc38-4955eb04d457/original",
+                            "label": "Original File - 59.3 MB",
+                            "format": "image/tiff"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://colenda.library.upenn.edu/items/ark:/81431/p34b2xs5b/canvas/p63",
+                    "@type": "sc:Canvas",
+                    "label": "31r",
+                    "height": 4964,
+                    "width": 4001,
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://iiif-images.library.upenn.edu/iiif/2/3652b67f-bbbd-47be-81f0-cec1a1674b5c/full/!200,200/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "width": 4001,
+                                "height": 4964,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iiif-images.library.upenn.edu/iiif/2/3652b67f-bbbd-47be-81f0-cec1a1674b5c",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                }
+                            },
+                            "on": "https://colenda.library.upenn.edu/items/ark:/81431/p34b2xs5b/canvas/p63"
+                        }
+                    ],
+                    "rendering": [
+                        {
+                            "@id": "https://colenda.library.upenn.edu/items/ark:/81431/p34b2xs5b/assets/3652b67f-bbbd-47be-81f0-cec1a1674b5c/original",
+                            "label": "Original File - 59.7 MB",
+                            "format": "image/tiff"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://colenda.library.upenn.edu/items/ark:/81431/p34b2xs5b/canvas/p64",
+                    "@type": "sc:Canvas",
+                    "label": "31v",
+                    "height": 4964,
+                    "width": 4065,
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://iiif-images.library.upenn.edu/iiif/2/a1c36fe3-3cc5-48f0-a063-f77fe06a1f63/full/!200,200/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "width": 4065,
+                                "height": 4964,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iiif-images.library.upenn.edu/iiif/2/a1c36fe3-3cc5-48f0-a063-f77fe06a1f63",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                }
+                            },
+                            "on": "https://colenda.library.upenn.edu/items/ark:/81431/p34b2xs5b/canvas/p64"
+                        }
+                    ],
+                    "rendering": [
+                        {
+                            "@id": "https://colenda.library.upenn.edu/items/ark:/81431/p34b2xs5b/assets/a1c36fe3-3cc5-48f0-a063-f77fe06a1f63/original",
+                            "label": "Original File - 60.6 MB",
+                            "format": "image/tiff"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://colenda.library.upenn.edu/items/ark:/81431/p34b2xs5b/canvas/p65",
+                    "@type": "sc:Canvas",
+                    "label": "32r",
+                    "height": 4964,
+                    "width": 4001,
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://iiif-images.library.upenn.edu/iiif/2/155733df-4e08-4cf3-b56b-0530fe018e96/full/!200,200/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "width": 4001,
+                                "height": 4964,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iiif-images.library.upenn.edu/iiif/2/155733df-4e08-4cf3-b56b-0530fe018e96",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                }
+                            },
+                            "on": "https://colenda.library.upenn.edu/items/ark:/81431/p34b2xs5b/canvas/p65"
+                        }
+                    ],
+                    "rendering": [
+                        {
+                            "@id": "https://colenda.library.upenn.edu/items/ark:/81431/p34b2xs5b/assets/155733df-4e08-4cf3-b56b-0530fe018e96/original",
+                            "label": "Original File - 59.7 MB",
+                            "format": "image/tiff"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://colenda.library.upenn.edu/items/ark:/81431/p34b2xs5b/canvas/p66",
+                    "@type": "sc:Canvas",
+                    "label": "32v",
+                    "height": 4964,
+                    "width": 4137,
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://iiif-images.library.upenn.edu/iiif/2/26136b45-ff45-4ac4-8e8b-829cee02f6cf/full/!200,200/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "width": 4137,
+                                "height": 4964,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iiif-images.library.upenn.edu/iiif/2/26136b45-ff45-4ac4-8e8b-829cee02f6cf",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                }
+                            },
+                            "on": "https://colenda.library.upenn.edu/items/ark:/81431/p34b2xs5b/canvas/p66"
+                        }
+                    ],
+                    "rendering": [
+                        {
+                            "@id": "https://colenda.library.upenn.edu/items/ark:/81431/p34b2xs5b/assets/26136b45-ff45-4ac4-8e8b-829cee02f6cf/original",
+                            "label": "Original File - 61.7 MB",
+                            "format": "image/tiff"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://colenda.library.upenn.edu/items/ark:/81431/p34b2xs5b/canvas/p67",
+                    "@type": "sc:Canvas",
+                    "label": "Inside back cover",
+                    "height": 4964,
+                    "width": 4001,
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://iiif-images.library.upenn.edu/iiif/2/07d2de5e-4d67-48f8-b983-1a42c9b7cb66/full/!200,200/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "width": 4001,
+                                "height": 4964,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iiif-images.library.upenn.edu/iiif/2/07d2de5e-4d67-48f8-b983-1a42c9b7cb66",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                }
+                            },
+                            "on": "https://colenda.library.upenn.edu/items/ark:/81431/p34b2xs5b/canvas/p67"
+                        }
+                    ],
+                    "rendering": [
+                        {
+                            "@id": "https://colenda.library.upenn.edu/items/ark:/81431/p34b2xs5b/assets/07d2de5e-4d67-48f8-b983-1a42c9b7cb66/original",
+                            "label": "Original File - 59.7 MB",
+                            "format": "image/tiff"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://colenda.library.upenn.edu/items/ark:/81431/p34b2xs5b/canvas/p68",
+                    "@type": "sc:Canvas",
+                    "label": "Back cover",
+                    "height": 5052,
+                    "width": 4161,
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://iiif-images.library.upenn.edu/iiif/2/5d970481-3f8b-48a1-b21a-0155981a2696/full/!200,200/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "width": 4161,
+                                "height": 5052,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iiif-images.library.upenn.edu/iiif/2/5d970481-3f8b-48a1-b21a-0155981a2696",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                }
+                            },
+                            "on": "https://colenda.library.upenn.edu/items/ark:/81431/p34b2xs5b/canvas/p68"
+                        }
+                    ],
+                    "rendering": [
+                        {
+                            "@id": "https://colenda.library.upenn.edu/items/ark:/81431/p34b2xs5b/assets/5d970481-3f8b-48a1-b21a-0155981a2696/original",
+                            "label": "Original File - 63.1 MB",
+                            "format": "image/tiff"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
